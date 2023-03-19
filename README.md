@@ -6,7 +6,9 @@
 A python package to get arrival times of buses and trains in the metropolitan city of Naples.
 
 ## Installation
-`python3 setup.py install`
+```
+python3 setup.py install
+```
 
 ## Features
 - Calculate arrival times of trains based on public data (frequency, speed, etc.)
