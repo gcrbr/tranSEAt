@@ -1,0 +1,17 @@
+{
+    "color": "#e66f15",
+    "stops": [
+        {
+            "name": "Morghen",
+            "coordinates": [40.84425736821485, 14.23618591317183]
+        },
+        {
+            "name": "Corso Vittorio Emanuele",
+            "coordinates": [40.84620970221703, 14.24209914303971]
+        },
+        {
+            "name": "Montesanto",
+            "coordinates": [40.847229987323594, 14.245275327039453]
+        }
+    ]
+}

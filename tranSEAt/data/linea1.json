@@ -1,0 +1,81 @@
+{
+    "color": "#fb9d00",
+    "stops": [
+        {
+            "name": "Piscinola",
+            "coordinates": [40.893014668509046, 14.239855830667066]
+        },
+        {
+            "name": "Chiaiano",
+            "coordinates": [40.890576986731205, 14.223343889411337]
+        },
+        {
+            "name": "Frullone",
+            "coordinates": [40.88081165121394, 14.230852233704509]
+        },
+        {
+            "name": "Colli Aminei",
+            "coordinates": [40.86963173575804, 14.228401906448246]
+        },
+        {
+            "name": "Policlinico",
+            "coordinates": [40.866085467188235, 14.221063514836006]
+        },
+        {
+            "name": "Rione Alto",
+            "coordinates": [40.861156578830155, 14.22055140779006]
+        },
+        {
+            "name": "Montedonzelli",
+            "coordinates": [40.85569338115515, 14.223990460891391]
+        },
+        {
+            "name": "Medaglie d'Oro",
+            "coordinates": [40.85059830159289, 14.230749672759503]
+        },
+        {
+            "name": "Vanvitelli",
+            "coordinates": [40.84387543777787, 14.231708567864981]
+        },
+        {
+            "name": "Quattro Giornate",
+            "coordinates": [40.84595767829769, 14.225058892649411]
+        },
+        {
+            "name": "Salvator Rosa",
+            "coordinates": [40.85168448183527, 14.23613111639432]
+        },
+        {
+            "name": "Materdei",
+            "coordinates": [40.855642262557915, 14.24327823087437]
+        },
+        {
+            "name": "Museo",
+            "coordinates": [40.85388201412628, 14.251649084786594]
+        },
+        {
+            "name": "Dante",
+            "coordinates": [40.84881021535694, 14.250067938967]
+        },
+        {
+            "name": "Toledo",
+            "coordinates": [40.84260424474635, 14.249691271362586]
+        },
+        {
+            "name": "Municipio",
+            "coordinates": [40.84013840068017, 14.25292857659936]
+        },
+        {
+            "name": "Università",
+            "coordinates": [40.84386619943408, 14.255867647780162]
+        },
+        {
+            "name": "Duomo",
+            "coordinates": [40.847638255187, 14.261681735077923]
+        },
+        {
+            "name": "Garibaldi",
+            "coordinates": [40.852308806303604, 14.272037877735812]
+        }
+    ]
+}

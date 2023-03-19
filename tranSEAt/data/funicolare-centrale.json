@@ -1,0 +1,21 @@
+{
+    "color": "#e66f15",
+    "stops": [
+        {
+            "name": "Piazza Fuga",
+            "coordinates": [40.84253735272667, 14.233468869575733]
+        },
+        {
+            "name": "Petraio",
+            "coordinates": [40.841218988962645, 14.238751425150609]
+        },
+        {
+            "name": "Corso Vittorio Emanuele",
+            "coordinates": [40.83979073166159, 14.242673183525083]
+        },
+        {
+            "name": "Augusteo",
+            "coordinates": [40.83893526265552, 14.247664105679599]
+        }
+    ]
+}

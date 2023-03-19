@@ -1,0 +1,65 @@
+{
+    "color": "#0f944f",
+    "stops": [
+        {
+            "name": "Pozzuoli Solfatara",
+            "coordinates": [40.8275595596994, 14.12617160760787],
+            "id": 9101
+        },
+        {
+            "name": "Bagnoli-Agnano Terme",
+            "coordinates": [40.81944354083196, 14.166672459434816],
+            "id": 9102
+        },
+        {
+            "name": "Cavalleggeri Aosta",
+            "coordinates": [40.81990598711014, 14.18778202463341],
+            "id": 9113
+        },
+        {
+            "name": "Campi Flegrei",
+            "coordinates": [40.82224208753746, 14.19454706961777],
+            "id": 9103
+        },
+        {
+            "name": "Leopardi",
+            "coordinates": [40.82423003104185, 14.200495135041495],
+            "id": 9104
+        },
+        {
+            "name": "Mergellina",
+            "coordinates": [40.83156418122432, 14.218730568049017],
+            "id": 9105
+        },
+        {
+            "name": "Amedeo",
+            "coordinates": [40.8374516193102, 14.233560221468869],
+            "id": 9106
+        },
+        {
+            "name": "Montesanto",
+            "coordinates": [40.84766126066433, 14.244204794921538],
+            "id": 9107
+        },
+        {
+            "name": "Cavour",
+            "coordinates": [40.85534962246886, 14.255067956410505],
+            "id": 9108
+        },
+        {
+            "name": "Garibaldi",
+            "coordinates": [40.85247276962508, 14.272132746688246],
+            "id": 9109
+        },
+        {
+            "name": "Gianturco",
+            "coordinates": [40.85388965486902, 14.287815489297358],
+            "id": 9110
+        },
+        {
+            "name": "San Giovanni-Barra",
+            "coordinates": [40.83317134081956, 14.305375985514303],
+            "id": 9800
+        }
+    ]
+}

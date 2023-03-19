@@ -1,0 +1,25 @@
+{
+    "color": "#e66f15",
+    "stops": [
+        {
+            "name": "Manzoni",
+            "coordinates": [40.825922032916644, 14.21272209201288]
+        },
+        {
+            "name": "Parco Angelina",
+            "coordinates": [40.82581649229155, 14.214202671298414]
+        },
+        {
+            "name": "S. Gioacchino",
+            "coordinates": [40.825840847835316, 14.21638062488511]
+        },
+        {
+            "name": "S. Antonio",
+            "coordinates": [40.82608440278111, 14.217657356297998]
+        },
+        {
+            "name": "Mergellina",
+            "coordinates": [40.826327956832436, 14.219470529481011]
+        }
+    ]
+}
