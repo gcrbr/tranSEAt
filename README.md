@@ -41,6 +41,13 @@ python3 setup.py install
 
 \*: Many of those rail lines are so f\*\*\*ed up that calculated times tend to be inaccurate most of the times
 
+## Rendering the rail map
+![Rail map](https://github.com/gcrbr/tranSEAt/blob/main/railmap.png?raw=true)
+
+You can achieve this through mplleaflet; for this example in particular you can run the `railmap.py` file from the `examples` folder.
+
+Please refer to the notes below to fix mplleaflet before running the example.
+
 ## Notes
 I am not affiliated in any way with any of the companies mentioned in this project.
 
