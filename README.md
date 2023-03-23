@@ -17,7 +17,7 @@ python3 setup.py install
 
 ## Featured means of transport
 ### ANM
-| Transport | Available | Live arrival times | Calculated arrival times |
+| Transport | Available | Live arrival times | Calculated arrival times* |
 | - | - | - | - |
 | [Linea 1](https://www.anm.it/index.php?Itemid=98&id=71&option=com_content&task=view) | &check; | | &check; |
 | [Bus](https://www.anm.it/index.php?option=com_content&task=view&id=1308&Itemid=260) | &check; | &check; | |
@@ -27,7 +27,7 @@ python3 setup.py install
 | [Funicolare di Chiaia](https://www.anm.it/index.php?option=com_content&task=view&id=82&Itemid=385) | | | |
 
 ### EAV
-| Transport | Available | Live arrival times | Calculated arrival times |
+| Transport | Available | Live arrival times | Calculated arrival times* |
 | - | - | - | - |
 | [Cumana](https://www.eavsrl.it/web/orari-linee-ferroviarie) | &check; | &check; | &check; |
 | [Circumflegrea](https://www.eavsrl.it/web/orari-linee-ferroviarie) | &check; | &check; | &check; |
@@ -35,9 +35,11 @@ python3 setup.py install
 | [Circumvesuviana](https://www.eavsrl.it/web/orari-linee-ferroviarie) | | | |
 
 ### Trenitalia
-| Transport | Available | Live arrival times | Calculated arrival times |
+| Transport | Available | Live arrival times | Calculated arrival times* |
 | - | - | - | - |
 | [Linea 2](https://www.trenitalia.com/it/treni_regionali/campania/metro_napoli.html) | &check; | &check; | &check; |
+
+*: Many of those rail lines are so f***ed up that calculated times tend to be inaccurate most of the times
 
 ## Notes
 I am not affiliated in any way with any of the companies mentioned in this project.
