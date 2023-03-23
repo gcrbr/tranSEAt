@@ -39,7 +39,7 @@ python3 setup.py install
 | - | - | - | - |
 | [Linea 2](https://www.trenitalia.com/it/treni_regionali/campania/metro_napoli.html) | &check; | &check; | &check; |
 
-*: Many of those rail lines are so f***ed up that calculated times tend to be inaccurate most of the times
+\*: Many of those rail lines are so f\*\*\*ed up that calculated times tend to be inaccurate most of the times
 
 ## Notes
 I am not affiliated in any way with any of the companies mentioned in this project.
